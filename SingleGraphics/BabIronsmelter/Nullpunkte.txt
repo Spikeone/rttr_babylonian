@@ -1,0 +1,12 @@
+380.rle.nx56.ny43
+381.shadow.nx56.ny17
+382.rle.nx56.ny43
+383.shadow.nx56.ny19
+384.rle.nx1.ny15
+
+V2
+380.rle.nx51.ny35
+381.shadow.nx51.ny9
+382.rle.nx51.ny35
+383.shadow.nx51.ny11
+384.rle.nx-4.ny7

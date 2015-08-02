@@ -1,0 +1,13 @@
+425.rle.nx35.ny32
+426.shadow.nx35.ny8
+427.rle.nx35.ny31
+428.shadow.nx35.ny13
+429.rle.nx1.ny12
+425.rle.nx35.ny33
+
+V2
+425.rle.nx35.ny34
+426.shadow.nx35.ny11
+427.rle.nx35.ny34
+428.shadow.nx31.ny15
+429.rle.nx-3.ny14

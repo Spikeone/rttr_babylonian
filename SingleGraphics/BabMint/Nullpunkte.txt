@@ -1,0 +1,12 @@
+420.rle.nx41.ny61
+421.shadow.nx41.ny22
+422.rle.nx41.ny48
+423.shadow.nx41.ny23
+424.rle.nx-2.ny10
+
+V2
+420.rle.nx40.ny61
+421.shadow.nx40.ny22
+422.rle.nx40.ny48
+423.shadow.nx40.ny23
+424.rle.nx-3.ny10

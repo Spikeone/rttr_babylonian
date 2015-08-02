@@ -1,0 +1,12 @@
+370.rle.nx43.ny47
+371.shadow.nx43.ny15
+372.rle.nx43.ny47
+373.shadow.nx43.ny13
+374.rle.nx-4.ny10
+
+V2
+370.rle.nx41.ny44
+371.shadow.nx41.ny12
+372.rle.nx41.ny44
+373.shadow.nx41.ny10
+374.rle.nx-7.ny7

@@ -1,0 +1,12 @@
+435.rle.nx60.ny61
+436.shadow.nx60.ny19
+437.rle.nx60.ny59
+438.shadow.nx60.ny30
+439.rle.nx14.ny29
+
+V2
+435.rle.nx57.ny55
+436.shadow.nx57.ny23
+437.rle.nx57.ny53
+438.shadow.nx57.ny24
+439.rle.nx14.ny29

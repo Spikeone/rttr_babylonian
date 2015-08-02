@@ -1,0 +1,12 @@
+395.rle.nx43.ny55
+396.shadow.nx43.ny19
+397.rle.nx43.ny55
+398.shadow.nx43.ny22
+399.rle.nx-7.ny7
+
+V2
+395.rle.nx45.ny55
+396.shadow.nx45.ny19
+397.rle.nx45.ny55
+398.shadow.nx45.ny22
+399.rle.nx-5.ny7

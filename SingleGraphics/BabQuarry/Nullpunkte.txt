@@ -1,0 +1,12 @@
+345.rle.nx36.ny32
+346.shadow.nx36.ny12
+347.rle.nx36.ny32
+348.shadow.nx36.ny11
+349.rle.nx2.ny14
+
+v2
+345.rle.nx31.ny28
+346.shadow.nx31.ny8
+347.rle.nx31.ny28
+348.shadow.nx31.ny7
+349.rle.nx-3.ny10

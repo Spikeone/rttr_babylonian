@@ -1,0 +1,14 @@
+355.rle.nx41.ny38
+356.shadow.nx41.ny13
+357.rle.nx41.ny38
+358.shadow.nx41.ny15
+359.rle.nx-3.ny13
+355.rle.nx41.ny39
+
+V2
+355.rle.nx43.ny38
+356.shadow.nx43.ny13
+357.rle.nx43.ny38
+358.shadow.nx43.ny14
+359.rle.nx-1.ny13
+355.rle.nx41.ny39

@@ -1,0 +1,10 @@
+310.rle.nx43.ny32
+311.shadow.nx43.ny8
+312.rle.nx43.ny32
+313.shadow.nx43.ny9
+
+V2
+310.rle.nx39.ny32
+311.shadow.nx39.ny8
+312.rle.nx39.ny32
+313.shadow.nx39.ny9

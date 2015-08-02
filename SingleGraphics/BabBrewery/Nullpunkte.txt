@@ -1,0 +1,12 @@
+365.rle.nx45.ny45
+366.shadow.nx45.ny8
+367.rle.nx45.ny43
+368.shadow.nx45.ny20
+369.rle.nx-3.ny12
+
+V2
+365.rle.nx44.ny43
+366.shadow.nx44.ny6
+367.rle.nx44.ny41
+368.shadow.nx44.ny18
+369.rle.nx-4.ny10

@@ -1,0 +1,12 @@
+270.rle.nx38.ny71
+271.shadow.nx38.ny17
+272.rle.nx38.ny60
+273.shadow.nx38.ny16
+274.rle.nx-2.ny9
+
+V2
+270.rle.nx34.ny71
+271.shadow.nx34.ny17
+272.rle.nx34.ny60
+273.shadow.nx34.ny16
+274.rle.nx-6.ny8

@@ -1,0 +1,6 @@
+430.rle.nx40.ny46
+431.shadow.nx40.ny19
+432.rle.nx40.ny41
+433.shadow.nx40.ny19
+434.rle.nx-4.ny8
+430.rle.nx40.ny47

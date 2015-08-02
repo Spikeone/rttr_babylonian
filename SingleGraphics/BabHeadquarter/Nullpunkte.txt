@@ -1,0 +1,3 @@
+250.rle.nx87.ny81
+251.shadow.nx87.ny24
+254.rle.nx-3.ny10

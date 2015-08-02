@@ -1,0 +1,5 @@
+375.rle.nx42.ny54
+376.shadow.nx42.ny22
+377.rle.nx42.ny54
+378.shadow.nx42.ny20
+379.rle.nx-3.ny11

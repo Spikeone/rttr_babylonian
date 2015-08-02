@@ -1,0 +1,11 @@
+295.rle.nx86.ny71
+296.shadow.nx86.ny21
+297.rle.nx86.ny62
+298.shadow.nx86.ny39
+
+V2
+295.rle.nx87.ny74
+296.shadow.nx87.ny25
+297.rle.nx87.ny65
+298.shadow.nx87.ny42
+299.rle.nx4.ny17

@@ -1,0 +1,5 @@
+390.rle.nx57.ny48
+391.shadow.nx57.ny24
+392.rle.nx57.ny47
+393.shadow.nx57.ny31
+394.rle.nx16.ny29

@@ -1,0 +1,5 @@
+410.rle.nx41.ny34
+411.shadow.nx41.ny15
+412.rle.nx41.ny34
+413.shadow.nx41.ny15
+414.rle.nx-3.ny10
